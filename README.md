@@ -1,2 +1,2 @@
-# SHRDC_bootcamp
-Projects and Assignments from SHRDC bootcamp
+# DL_bootcamp
+Projects and Assignments from DL bootcamp
